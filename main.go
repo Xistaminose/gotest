@@ -3,7 +3,7 @@ import (
 "log"
 "os"
 "github.com/gin-gonic/gin"
-routes "github.com/cavdy-play/go_db/routes"
+routes "github.com/Xistaminose/gotest/routes"
 )
 func main() {
 // Init Router
