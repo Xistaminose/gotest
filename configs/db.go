@@ -2,7 +2,7 @@ package config
 import (
 "log"
 "os"
-"github.com/go-pg/pg/v9"
+"github.com/go-pg/pg/v10"
 )
 // Connecting to db
 func Connect() *pg.DB {
