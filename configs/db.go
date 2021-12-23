@@ -3,6 +3,7 @@ import (
 "log"
 "os"
 "github.com/go-pg/pg/v10"
+"github.com/go-pg/pg/v10/orm"
 )
 // Connecting to db
 func Connect() *pg.DB {
